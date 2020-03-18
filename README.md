@@ -1,3 +1,5 @@
+# Public URL: www.lasasebastian.xyz
+
 You can use the API to find all the categories in Meli
 # ex: /categories/
 
